@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<h1>Create a description list, with terms and descriptions of:</h1><h2>Create 5 list and list should be of your choice</h2>
+
+<dt>Description</dt>
+<dd>Create a description list, with terms and descriptions of:</dd>
+<ul>
+<li>Home</li>
+<li>Aboutus</li>
+<li>Contactus</li>
+</body>
+</html>
